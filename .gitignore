@@ -1,0 +1,12 @@
+# Ignorar ambiente virtual do Python
+.venv/
+
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de editor (opcional)
+.vscode/
+
+# Mac
+.DS_Store
